@@ -4,8 +4,22 @@
         <description><![CDATA[What happens on the Blockchain STAYS on the Blockchain]]></description>
         <link>https://thegrid.ai/blockchain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 04:29:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Dec 2015 04:29:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blockchain/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethereum Frontier]]></title>
+            <description><![CDATA[<article><h1>Ethereum Frontier</h1><p>Ether is the internal 'fuel' of Ethereum. Programs running on Ethereum need to pay the network for the resources they consume. Volunteers earn this ether by validating transactions, securing the network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2563b5a1a55b4847444dc626ef49eb4e27132350.jpg"></article>]]></description>
+            <link>https://www.ethereum.org/</link>
+            <guid isPermaLink="false">f5683420-9254-4cb8-970f-349eb3769d33</guid>
+            <pubDate>Sat, 12 Dec 2015 04:28:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://insidebitcoins.com/wp-content/uploads/2015/08/Ethereum-1-e1416469064759.jpg">]]></description>
+            <link>https://thegrid.ai/blockchain/97deaf71-90c2-4fa1-acc1-f0e44904a904/index.html</link>
+            <guid isPermaLink="false">97deaf71-90c2-4fa1-acc1-f0e44904a904</guid>
+            <pubDate>Sat, 12 Dec 2015 04:28:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Realtime Bitcoin]]></title>
             <description><![CDATA[<article><h1>Realtime Bitcoin</h1><p>Keep track of the digital currency Bitcoin - in real-time! Shows you the exchange rate, transactions going through the network, power consuption and coins in circulation in a responsive dashboard format.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59a5df68959ddc0bb67ef3d9b77094bba57bcecb.png"></article>]]></description>
