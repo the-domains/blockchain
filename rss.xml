@@ -4,11 +4,25 @@
         <description><![CDATA[What happens on the Blockchain STAYS on the Blockchain]]></description>
         <link>https://thegrid.ai/blockchain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 23:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 16:50:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blockchain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Bitcoin is dead… Long live Bitcoin. ]]></title>
+            <description><![CDATA[<article><h1>Bitcoin is dead… Long live Bitcoin. </h1><p>I've been writing about the Bitcoin blocksize debate here at AVC (the only place I write and I'm hard core about that) for the past year. It's a big deal.</p></article>]]></description>
+            <link>https://thegrid.ai/blockchain/bitcoin-is-dead-long-live-bitcoin/index.html</link>
+            <guid isPermaLink="false">fae0872f-7ff6-45e2-8b03-201c3da867d2</guid>
+            <pubDate>Mon, 18 Jan 2016 16:50:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://media.coindesk.com/2015/12/650-e1451486116494.jpg">]]></description>
+            <link>https://thegrid.ai/blockchain/34884a56-a737-49b8-a247-6720a0639e85/index.html</link>
+            <guid isPermaLink="false">34884a56-a737-49b8-a247-6720a0639e85</guid>
+            <pubDate>Thu, 14 Jan 2016 23:37:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[7 Emerging Trends For Bitcoin and the Blockchain - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>7 Emerging Trends For Bitcoin and the Blockchain - CoinDesk</h1><p>Over the holiday season, CoinDesk published a wide range of feature articles from experts and stakeholders in and outside of the bitcoin and blockchain industry. Billed as our 2015 Review, the series encouraged guest writers - including experts on law and finance, academics, entrepreneurs and even readers - to discuss the year past and the year ahead.</p><img src="http://media.coindesk.com/2016/01/global-network.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>7 Emerging Trends For Bitcoin and the Blockchain - CoinDesk</h1><p>Over the holiday season, CoinDesk published a wide range of feature articles from experts and stakeholders in and outside of the bitcoin and blockchain industry. Billed as our 2015 Review, the series encouraged guest writers - including experts on law and finance, academics, entrepreneurs and even readers - to discuss the year past and the year ahead.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a86e1e998b6713e0422c9506e241ebdd323bb55.jpg"></article>]]></description>
             <link>http://www.coindesk.com/emerging-trends-blockchain-bitcoin/</link>
             <guid isPermaLink="false">673ca765-8969-4d45-8313-a511c9be5cd3</guid>
             <pubDate>Thu, 14 Jan 2016 23:19:31 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>http://bitcointicker.co/</link>
             <guid isPermaLink="false">36b3c2ff-3a64-4184-9048-39367e36b0cb</guid>
             <pubDate>Sat, 12 Dec 2015 04:29:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.extremetech.com/wp-content/uploads/2013/05/bitcoin.gif">]]></description>
-            <link>https://thegrid.ai/blockchain/e477d0a9-adde-498f-9834-53c9d6501cd2/index.html</link>
-            <guid isPermaLink="false">e477d0a9-adde-498f-9834-53c9d6501cd2</guid>
-            <pubDate>Sat, 12 Dec 2015 04:29:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://www.dollarvigilante.com/wp-content/uploads/blog/blog/the-10-commandments-of-digital-exodus.jpg">]]></description>
-            <link>https://thegrid.ai/blockchain/b4b03c02-adc9-4430-a54a-9ae54e7f8c96/index.html</link>
-            <guid isPermaLink="false">b4b03c02-adc9-4430-a54a-9ae54e7f8c96</guid>
-            <pubDate>Sat, 12 Dec 2015 04:29:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
