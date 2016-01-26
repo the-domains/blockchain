@@ -4,8 +4,15 @@
         <description><![CDATA[What happens on the Blockchain STAYS on the Blockchain]]></description>
         <link>https://thegrid.ai/blockchain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 16:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 17:22:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blockchain/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[12 Blockchain Industries]]></title>
+            <description><![CDATA[<article><h1>12 Blockchain Industries</h1><p>Banking and payments aren't the only industries that could be affected by blockchain tech. Cybersecurity, music, and auto also could be transformed. Bitcoin's existence as a decentralized digital currency is made possible by what's known as blockchain technology, essentially a public ledger that securely and automatically verifies and records a high volume of transactions digitally.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c99f417d4901a96eb6b7e708c70a2b6cb0dd44db.png"></article>]]></description>
+            <link>https://www.cbinsights.com/blog/industries-disrupted-blockchain/</link>
+            <guid isPermaLink="false">71982136-11ae-4c13-8053-390c44e2acac</guid>
+            <pubDate>Tue, 26 Jan 2016 17:22:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin is dead… Long live Bitcoin. ]]></title>
             <description><![CDATA[<article><h1>Bitcoin is dead… Long live Bitcoin. </h1><p>I've been writing about the Bitcoin blocksize debate here at AVC (the only place I write and I'm hard core about that) for the past year. It's a big deal.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://mundoblockchain.com/wp-content/uploads/2015/09/connected-world-shutterstock-1.jpg">]]></description>
             <link>https://thegrid.ai/blockchain/c232915f-a19d-47f0-9987-1b567404674c/index.html</link>
             <guid isPermaLink="false">c232915f-a19d-47f0-9987-1b567404674c</guid>
-            <pubDate>Sat, 12 Dec 2015 04:29:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Ticker - Tick by tick - Real time updates]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Ticker - Tick by tick - Real time updates</h1><p></p></article>]]></description>
-            <link>http://bitcointicker.co/</link>
-            <guid isPermaLink="false">36b3c2ff-3a64-4184-9048-39367e36b0cb</guid>
             <pubDate>Sat, 12 Dec 2015 04:29:03 GMT</pubDate>
         </item>
     </channel>
