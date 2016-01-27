@@ -4,11 +4,18 @@
         <description><![CDATA[What happens on the Blockchain STAYS on the Blockchain]]></description>
         <link>https://thegrid.ai/blockchain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 17:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 21:14:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blockchain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Don't Listen to the Mainstream Media on Bitcoin or Blockchain - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Don't Listen to the Mainstream Media on Bitcoin or Blockchain - CoinDesk</h1><p>Jon Southurst is head of content and marketing at blockchain data service Kaiko.com. His In this piece, Jon takes aim at the mainstream media and their issues reporting on emerging technologies in the sector. work has appeared in CoinDesk, NewAsianist, The Toronto Star (Canada), The Age, MacAddict and other technology magazines.</p><img src="http://media.coindesk.com/2016/01/newspaper-e1453765603876.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/dont-listen-mainstream-media-bitcoin-blockchain/</link>
+            <guid isPermaLink="false">c5464ee8-28af-490b-9690-1a23a982cf97</guid>
+            <pubDate>Wed, 27 Jan 2016 21:12:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[12 Blockchain Industries]]></title>
-            <description><![CDATA[<article><h1>12 Blockchain Industries</h1><p>Banking and payments aren't the only industries that could be affected by blockchain tech. Cybersecurity, music, and auto also could be transformed. Bitcoin's existence as a decentralized digital currency is made possible by what's known as blockchain technology, essentially a public ledger that securely and automatically verifies and records a high volume of transactions digitally.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c99f417d4901a96eb6b7e708c70a2b6cb0dd44db.png"></article>]]></description>
+            <description><![CDATA[<article><h1>12 Blockchain Industries</h1><p>Banking and payments aren't the only industries that could be affected by blockchain tech. Cybersecurity, music, and auto also could be transformed. Bitcoin's existence as a decentralized digital currency is made possible by what's known as blockchain technology, essentially a public ledger that securely and automatically verifies and records a high volume of transactions digitally.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4766d1b52284830ac51bfc0a28cc11411af3db5f.png"></article>]]></description>
             <link>https://www.cbinsights.com/blog/industries-disrupted-blockchain/</link>
             <guid isPermaLink="false">71982136-11ae-4c13-8053-390c44e2acac</guid>
             <pubDate>Tue, 26 Jan 2016 17:22:18 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://dukelong.com/wp-content/uploads/2015/05/blockchain1pic.jpg">]]></description>
             <link>https://thegrid.ai/blockchain/8d362208-21bb-4938-9dfa-a9891d3fe6d7/index.html</link>
             <guid isPermaLink="false">8d362208-21bb-4938-9dfa-a9891d3fe6d7</guid>
-            <pubDate>Sat, 12 Dec 2015 04:29:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://mundoblockchain.com/wp-content/uploads/2015/09/connected-world-shutterstock-1.jpg">]]></description>
-            <link>https://thegrid.ai/blockchain/c232915f-a19d-47f0-9987-1b567404674c/index.html</link>
-            <guid isPermaLink="false">c232915f-a19d-47f0-9987-1b567404674c</guid>
             <pubDate>Sat, 12 Dec 2015 04:29:03 GMT</pubDate>
         </item>
     </channel>
